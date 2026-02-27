@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360">
+<rect width="100%" height="100%" fill="#f8fafc" />
+<text x="70" y="28" font-size="20" font-family="monospace" fill="#111827">Phase-2 Cross-Dataset</text>
+<text x="70" y="50" font-size="13" font-family="monospace" fill="#475569">Macro-F1 by train->test direction and modality</text>
+<line x1="70" y1="290" x2="730" y2="290" stroke="#334155" stroke-width="1"/>
+<line x1="70" y1="70" x2="70" y2="290" stroke="#334155" stroke-width="1"/>
+<rect x="94.8" y="87.6" width="60.5" height="202.4" fill="#1b5e20" rx="4"/>
+<text x="125.0" y="81.6" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.239</text>
+<text x="125.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">C->R audio</text>
+<rect x="204.8" y="143.3" width="60.5" height="146.7" fill="#1565c0" rx="4"/>
+<text x="235.0" y="137.3" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.173</text>
+<text x="235.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">C->R video</text>
+<rect x="314.8" y="95.9" width="60.5" height="194.1" fill="#ef6c00" rx="4"/>
+<text x="345.0" y="89.9" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.229</text>
+<text x="345.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">C->R fusion</text>
+<rect x="424.8" y="180.0" width="60.5" height="110.0" fill="#6a1b9a" rx="4"/>
+<text x="455.0" y="174.0" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.130</text>
+<text x="455.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">R->C audio</text>
+<rect x="534.8" y="248.8" width="60.5" height="41.2" fill="#2e7d32" rx="4"/>
+<text x="565.0" y="242.8" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.049</text>
+<text x="565.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">R->C video</text>
+<rect x="644.8" y="229.4" width="60.5" height="60.6" fill="#1b5e20" rx="4"/>
+<text x="675.0" y="223.4" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.071</text>
+<text x="675.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">R->C fusion</text>
+</svg>

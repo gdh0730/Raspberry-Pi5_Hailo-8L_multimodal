@@ -1,0 +1,4 @@
+name,kind,mode,summary_json,emotion_acc,emotion_macro_f1,arousal2_mae,arousal3_mae,delta_f1_vs_phase2_fusion_main,delta_f1_vs_phase3_fp32_main
+ml_v3_rbfsvm_fusion,ml,fusion,derived/results/ml_baselines_phase35_v3_rbfsvm_main/summary.json,0.48723078733670705,0.48071907003007586,0.24989673688558448,0.5882783882783883,0.08570641680072638,0.10319406972376782
+fp32_v3_ce_fusion,fp32,fusion,derived/results/fp32_multitask_phase35_v3_ce_main/summary.json,0.47816876544662823,0.47205435724620054,0.2577447335811648,0.6285714285714286,0.07704170401685106,0.0945293569398925
+ml_v3_logreg_fusion,ml,fusion,derived/results/ml_baselines_phase35_v3_logreg_main/summary.json,0.41579380957985174,0.4149486220262826,0.31970260223048325,0.654945054945055,0.0199359687969331,0.03742362171997454

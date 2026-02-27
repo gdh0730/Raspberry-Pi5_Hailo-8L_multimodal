@@ -1,0 +1,38 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python env/cache
+.venv/
+.venv-hailo/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs/temp
+*.log
+*.tmp
+*.bak
+.install_logs/
+
+# Large/generated artifacts
+datasets/
+derived/manifests/
+derived/features/
+derived/splits/
+derived/results/
+derived/hailo/
+
+# Keep reports
+!derived/reports/
+!derived/reports/**
+
+# Third-party vendor repos/binaries
+third_party/
+*.hef
+*.onnx
+*.npy
+*.npz

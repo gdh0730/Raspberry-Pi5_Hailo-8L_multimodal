@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360">
+<rect width="100%" height="100%" fill="#f8fafc" />
+<text x="70" y="28" font-size="20" font-family="monospace" fill="#111827">Phase-2 Main (Actor-Independent 5-Fold)</text>
+<text x="70" y="50" font-size="13" font-family="monospace" fill="#475569">Macro-F1 by modality</text>
+<line x1="70" y1="290" x2="730" y2="290" stroke="#334155" stroke-width="1"/>
+<line x1="70" y1="70" x2="70" y2="290" stroke="#334155" stroke-width="1"/>
+<rect x="119.5" y="101.9" width="121.0" height="188.1" fill="#1b5e20" rx="4"/>
+<text x="180.0" y="95.9" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.367</text>
+<text x="180.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">audio</text>
+<rect x="339.5" y="160.1" width="121.0" height="129.9" fill="#1565c0" rx="4"/>
+<text x="400.0" y="154.1" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.254</text>
+<text x="400.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">video</text>
+<rect x="559.5" y="87.6" width="121.0" height="202.4" fill="#ef6c00" rx="4"/>
+<text x="620.0" y="81.6" text-anchor="middle" font-size="12" font-family="monospace" fill="#0f172a">0.395</text>
+<text x="620.0" y="310" text-anchor="middle" font-size="12" font-family="monospace" fill="#334155">fusion</text>
+</svg>
